@@ -24,6 +24,17 @@
 | RF07 |   O sistema deve permiti ao usuário alterar manualmente                   |            |             |
 |      | o esquema posológico (horários e frações) sugerido pelo sistema,          |            |             |
 |      | caso necessário.                                                          |            |             |
+| RF08 |    O sistema deve calcular a dose com base em informações                 |            |             |
+|      | de referência de bulas, guidelines pediátricas e estudos clínicos         |            |             |
+|      | específicos, garantindo a segurança da dosagem.                           |            |             |
+| RF09 |   O sistema deve permitir atualizações periódicas das fontes              |            |             |
+|      | de dosagem (guidelines, estudos, bulas) para refletir as diretrizes       |            |             |
+|      | mais recentes e garantir precisão             .                           |            |             |
+| RF10 |   O sistema deve exibir ao usuário a fonte da dosagem utilizada           |            |             |
+|      | no cálculo (ex.: guideline pediátrico de 2023, bula do medicamento X),    |            |             |
+|      |para aumentar a transparência e permitir conferência rápida.               |            |             |
+
+
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
