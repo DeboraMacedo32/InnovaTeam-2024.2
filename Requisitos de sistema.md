@@ -17,10 +17,10 @@
 | ID   | Requisito                                                                                      |
 |------|-----------------------------------------------------------------------------------------------|
 | RNF01 | O cálculo de dosagem deve ser realizado em menos de 2 segundos.                              |
-| RNF02 | As fórmulas e barras de corte devem ser baseadas em estudos científicos confiáveis.           |
+| RNF02 | O sistema deve ser compatível com os navegadores IE, Chrome e Firefox.                        |
 | RNF03 | A interface deve ser intuitiva, com acesso rápido às principais funcionalidades.              |
 | RNF04 | O sistema deve garantir que as informações de dosagem sigam as normas de segurança médica reconhecidas e estejam baseadas em guidelines atualizadas e publicações confiáveis. |
 | RNF05 | O sistema deve atender a múltiplos usuários simultaneamente sem comprometer o desempenho.     |
-| RNF06 | O sistema deve ser acessível via dispositivos móveis e computadores.                          |
+| RNF06 | O sistema deve garantir que as informações de dosagem sigam as normas de segurança médica reconhecidas e estejam baseadas em guidelines atualizadas e publicações confiáveis.|
 | RNF07 | O sistema deve registrar logs das alterações realizadas nos cálculos ou nas configurações.    |
 | RNF08 | O sistema deve ser auditável, permitindo que as fontes (guidelines, estudos, bulas) de cada cálculo possam ser verificadas em caso de necessidade.    |
