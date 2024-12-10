@@ -24,3 +24,5 @@
 | RNF06 | O sistema deve garantir que as informações de dosagem sigam as normas de segurança médica reconhecidas e estejam baseadas em guidelines atualizadas e publicações confiáveis.|
 | RNF07 | O sistema deve registrar logs das alterações realizadas nos cálculos ou nas configurações.    |
 | RNF08 | O sistema deve ser auditável, permitindo que as fontes (guidelines, estudos, bulas) de cada cálculo possam ser verificadas em caso de necessidade.    |
+| RNF09 | O sistema deve ser compatível com atualizações futuras, permitindo a inclusão de novos medicamentos e novas diretrizes para posologia pediátrica.    |
+| RNF10 | O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.                                                                           |
