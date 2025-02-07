@@ -1,5 +1,27 @@
 # InnovaTeam-2024.2
 
+
+- **Disciplina:** Desenvolvimento Ágil
+- **Ano:** 2025
+- **Semestre:** 3º Semestre
+
+
+| Nome                  | GitHub  |
+|-----------------------|---------|
+| [Débora de Macedo] |  [GitHub](https://github.com/DeboraMacedo32) |
+| [Julio Covary] |  [GitHub](https://github.com/juliocovary) |
+| [Kelcilene Tomie] | [GitHub](https://github.com/Kelcilene) |
+| [Lucas Okiishi] | [GitHub](https://github.com/Okiishi) |
+
+
+## Documentos no Repositório
+
+
+- [Requisitos de Sistema](https://github.com/DeboraMacedo32/InnovaTeam-2024.2/blob/main/Requisitos%20de%20Sistema/Requisitos%20do%20Sistema.md)
+- [História de Usuário](https://github.com/DeboraMacedo32/InnovaTeam-2024.2/blob/main/Requisitos%20de%20Sistema/HistoriaUsuario.md)
+- [Protótipo](https://github.com/DeboraMacedo32/InnovaTeam-2024.2/tree/main/Prot%C3%B3tipo)
+
+
 ## Sobre o Projeto
 
 O projeto é um sistema desenvolvido para oferecer suporte a profissionais da saúde no cálculo de doses de medicamentos, com foco em segurança e precisão. O principal objetivo do projeto é **sugerir correções e/ou alertas**, especialmente em situações extremas, como:
@@ -36,6 +58,6 @@ Ao informar dados como **peso**, **altura** e **idade** do paciente, o sistema c
 
 ## Tecnologias Utilizadas
 
-- Linguagem de Programação: ?
-- ...
-- ...
+- Linguagem de Programação: Python (para sua flexibilidade e bibliotecas de ciência de dados).
+- Banco de Dados: PostgreSQL (para gerenciar dados do paciente e recomendações científicas).
+- Interface do Usuário: React (para criar uma interface amigável e responsiva).
