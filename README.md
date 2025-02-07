@@ -8,10 +8,10 @@
 
 | Nome                  | GitHub  |
 |-----------------------|---------|
-| [Débora de Macedo] |  [GitHub](https://github.com/DeboraMacedo32) |
-| [Julio Covary] |  [GitHub](https://github.com/juliocovary) |
-| [Kelcilene Tomie] | [GitHub](https://github.com/Kelcilene) |
-| [Lucas Okiishi] | [GitHub](https://github.com/Okiishi) |
+| Débora de Macedo |  [GitHub](https://github.com/DeboraMacedo32) |
+| Julio Covary |  [GitHub](https://github.com/juliocovary) |
+| Kelcilene Tomie | [GitHub](https://github.com/Kelcilene) |
+| Lucas Okiishi | [GitHub](https://github.com/Okiishi) |
 
 
 ## Documentos no Repositório
